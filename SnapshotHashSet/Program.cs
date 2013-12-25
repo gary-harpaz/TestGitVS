@@ -9,6 +9,7 @@ namespace SnapshotHashSet
     {
         static void Main(string[] args)
         {
+            //what
         }
     }
 }
