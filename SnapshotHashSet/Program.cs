@@ -10,6 +10,8 @@ namespace SnapshotHashSet
         static void Main(string[] args)
         {
             //what
+
+            //comment1
         }
     }
 }
