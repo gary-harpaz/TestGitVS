@@ -12,6 +12,8 @@ namespace SnapshotHashSet
             //what
 
             //comment1
+
+            //comment2
         }
     }
 }
